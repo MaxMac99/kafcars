@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "kafcars",
+    "kafcars-inner-macros",
+]
+resolver = "2"
